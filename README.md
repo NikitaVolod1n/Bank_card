@@ -64,12 +64,10 @@
 
 Скриншоты:
 
-<img width="591" height="1280" alt="изображение_2026-02-10_180145446" src="https://github.com/user-attachments/assets/f6d1c7c6-d1c8-42c2-b638-1345a6d5771d" />
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/2e7eb2df-6c85-4bba-95c9-83b5f181bbd6" />
 
-<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/6a6c8ea3-ee32-4d81-8527-fdb890b15ecc" />
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/2f350682-8632-4a2f-8ff1-3bf48c453c90" />
 
-<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/0e8329c3-4573-4893-8f94-f8e9e339fc7e" />
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/6c590c38-7550-4811-b075-ecc8a9901db2" />
 
-<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/4857a887-5197-4145-8fa8-7c7ca266df9a" />
-
-<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/c655b37b-2bb1-4b41-a342-7f050afc00b8" />
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/3abf85c4-5d7f-49e6-babe-a085796f2533" />
