@@ -93,7 +93,7 @@ class CardViewModel() : ViewModel() {
                 finalSum += digit
             }
         }
-        return if (finalSum % 10 != 0) R.string.numberError else null
+        return if (finalSum % 10 != 0 || number.length != 16) R.string.numberError else null
     }
 
     private fun validateName(name: String): Int? =
