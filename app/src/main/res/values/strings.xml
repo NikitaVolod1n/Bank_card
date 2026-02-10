@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bank_card</string>
+    <string name="term">Действует до:</string>
+    <string name="zero">XXXX XXXX XXXX XXXX</string>
+    <string name="cvv">CVV</string>
+    <string name="month">MM</string>
+    <string name="year">YY</string>
+    <string name="name">Name Surname</string>
+    <string name="save">Сохранить</string>
+    <string name="EmptyError">Поле должно содержать латинские буквы</string>
+    <string name="cvvError">CVV должен быть 3 цифры</string>
+    <string name="monthError">Месяц введён неверно</string>
+    <string name="yearError">Год введён не верно</string>
+    <string name="numberError">Номер введён не правильно</string>
+</resources>
